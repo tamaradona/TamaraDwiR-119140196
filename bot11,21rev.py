@@ -17,7 +17,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # Inisialisasi bot Telegram
-bot = TeleBot('7895477673:AAGUc8GpsAKGbeNnvHiSzumEisqMFeuVWsc')
+bot = TeleBot('Vsc')
 
 # Sinonim kategori
 greeting_synonyms = ["hi", "hello", "hey", "anyone", "whatsup"]
